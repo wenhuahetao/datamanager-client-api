@@ -1,2 +1,2 @@
 # datamanager-client-api
-工商对接大数据平台
+工商对接大数据
