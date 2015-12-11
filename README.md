@@ -1,6 +1,6 @@
-Fline_Hadoop SDK 说明书v0.1.0
+data-client-api 说明书v0.1.0
 ============================
-@2015.10.22
+@2015.12.11
 
 - [概述](#description)
 - [主要类说明](#mainClass)
@@ -31,4 +31,5 @@ Fline_Hadoop SDK v0.1.0用于描述多种数据迁移功能的实现和使用。
 ##<span id="sdkUseStep">SDK使用说明</span>
 
 ###1. 在項目中添加fline-0.1.0.jar及其依賴包
-		主要类说明：com.fline.hadoop.hbase.HbaseOperator hbase相关操作类，该类主要用于从关系型数据导出到HBASE，并且提供l HBASE的查询、管理等功能
+	主要类说明：com.fline.hadoop.hbase.HbaseOperator hbase相关操作类.
+	该类主要用于从关系型数据导出到HBASE，并且提供l HBASE的查询、管理等功能
